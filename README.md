@@ -20,3 +20,7 @@
 ### V 2.1.1
 * Bug Fixes
   * Fixed issue with a new line being added at the end of a file when loading
+
+### V 2.1.2
+* Bug Fixes
+  * Fixed issue when loading empty files
