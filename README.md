@@ -16,3 +16,7 @@
 
 ### V 2.1.0 
 * Added ability to select previous saves when saving a new file
+
+### V 2.1.1
+* Bug Fixes
+  * Fixed issue with a new line being added at the end of a file when loading
